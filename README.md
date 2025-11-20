@@ -1,7 +1,7 @@
 # 👋 Hey there!
 
 Welcome to my repository!  
-This project contains my practice programs and learning journey in C, programming fundamentals.
+This project contains my practice programs and learning journey in C and programming fundamentals.
 
 ---
 
