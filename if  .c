@@ -1,8 +1,7 @@
-#include<stdio.h>
-
+# include <stdio.h>
 void main()
 { 
-int a;
+    int a;
     printf("program starts\n");
     printf ("enter the number\n");
     scanf ("%d",&a);
@@ -12,6 +11,7 @@ int a;
     }
     else
     {
-    printf("%d is odd number",a);
+    printf("%d is odd number\n",a);
     }
+    printf ("program ends");
 }
