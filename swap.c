@@ -1,6 +1,6 @@
 # include <stdio.h>
 void main()
-{
+{// swapping using three variables.
 int c;
 int a = 10;
 int b = 20;
