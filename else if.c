@@ -13,7 +13,7 @@ void main()
     printf ("enter the number in c\n");
     scanf("%d",&c);
     if(a>b&&a>c)
-    {
+    {//comparing among a,b,c values
         printf("%d is big value\n",a);
         if(b>c)
         {
