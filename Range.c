@@ -2,7 +2,7 @@
 
 void main()
 {
-int num;
+    int num;
     printf("enter the number\n");
     scanf ("%d",&num);
     int min =num>=-3;
