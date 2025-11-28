@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void main()
-{
+{//using For loop
     for (int a=14; a>=3; a--)
     {
         if(a%2==0)
