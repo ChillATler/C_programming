@@ -9,7 +9,7 @@ void main()
     for (int a=n; a>=1; a--)
     {
 
-        printf("5*%d=%d\n",a,a*n);
+        printf("5*%d=%d\n",a,5*a);
 
     }
     printf ("program stops");
